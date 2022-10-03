@@ -3,6 +3,12 @@
 #include <ctime>
 using namespace std;
 
+
+// math game using c++
+// 10 questions 
+
+
+
     int Q_NO = 1;
     int Correct = 0;
     int Wrong = 0;
